@@ -1,0 +1,11 @@
+C:\Users\goktu\source\repos\Car Rental\Car Rental\bin\Debug\Car Rental.exe.config
+C:\Users\goktu\source\repos\Car Rental\Car Rental\bin\Debug\Car Rental.exe
+C:\Users\goktu\source\repos\Car Rental\Car Rental\bin\Debug\Car Rental.pdb
+C:\Users\goktu\source\repos\Car Rental\Car Rental\obj\Debug\Car Rental.csprojResolveAssemblyReference.cache
+C:\Users\goktu\source\repos\Car Rental\Car Rental\obj\Debug\Car_Rental.Form1.resources
+C:\Users\goktu\source\repos\Car Rental\Car Rental\obj\Debug\Car_Rental.Properties.Resources.resources
+C:\Users\goktu\source\repos\Car Rental\Car Rental\obj\Debug\Car Rental.csproj.GenerateResource.Cache
+C:\Users\goktu\source\repos\Car Rental\Car Rental\obj\Debug\Car Rental.csproj.CoreCompileInputs.cache
+C:\Users\goktu\source\repos\Car Rental\Car Rental\obj\Debug\Car Rental.exe
+C:\Users\goktu\source\repos\Car Rental\Car Rental\obj\Debug\Car Rental.pdb
+C:\Users\goktu\source\repos\Car Rental\Car Rental\obj\Debug\Car_Rental.Form2.resources
